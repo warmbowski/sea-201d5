@@ -15,7 +15,7 @@ Full Time  | Topic
 Week 1     | Introduction to Web Development
 Week 2     | Object-Oriented Programming and the DOM
 Week 3     | Interactive Web Design
-Week 4     | Your Project
+Week 4     | Project Week!
 
 Check out the full [Table of Contents](SUMMARY.md).
 
