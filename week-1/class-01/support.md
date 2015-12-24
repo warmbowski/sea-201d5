@@ -25,9 +25,9 @@ At the top of the body, inside a semantic assortment of h1, h2, and p tags, use 
 Think about how readable your code is to other programmers. Be attentive to code style and conventions, as much as you know of them them at this point.
 
 ### JavaScript!
-Like we did we did in class, write JavaScript inside of <script> tags (placed at the bottom (inside) of the body), that does the following:
+Like we did we did in class, write JavaScript inside of script tags (placed at the bottom (inside) of the body), that does the following:
 
-- Receives user input through a <prompt> that asks “What is your name?” and stores that input into a variable
+- Receives user input through a prompt that asks “What is your name?” and stores that input into a variable
 - Returns an 'alert' box with a message that contains that user name somewhere in the middle (“Good to meet you, Homer, enjoy your doughnuts!” or the like)
 - Adapt the message to something different than what we did in class
 - Next, try to write the code for the three questions about yourself that you mapped out in the Design portion of the assignment.
