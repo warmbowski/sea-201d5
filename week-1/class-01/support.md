@@ -20,7 +20,7 @@ Do both by hand as a flowchart on a piece of paper (think of paper as a little p
 ### HTML content!
 Add a new file to your folder called index.html (do this from the terminal) and create the basic HTML structure for this page using your basic building block elements (doctype, html, head, body, script, etc).
 
-At the top of the body, inside a semantic assortment of <h1>, <h2>, and <p> tags, use your own words to describe what the JavaScript on this page is doing. Strive to use proper terminology (script, prompt, user input, variable, concatenate, alert, etc.)
+At the top of the body, inside a semantic assortment of h1, h2, and p tags, use your own words to describe what the JavaScript on this page is doing. Strive to use proper terminology (script, prompt, user input, variable, concatenate, alert, etc.)
 
 Think about how readable your code is to other programmers. Be attentive to code style and conventions, as much as you know of them them at this point.
 
