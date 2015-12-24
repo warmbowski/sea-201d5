@@ -27,3 +27,9 @@ Course repo for sea-201d1, with instructors Sam Hamm and Scott Schmidt (Oct/Nov 
 [Reading Assignment](https://canvas.instructure.com/courses/975041/assignments/3976258)
 
 Code Assignment
+
+
+Temp Stuff
+
+console.log
+- Logs the value of that variable into the console with a useful debugging message as demonstrated in class

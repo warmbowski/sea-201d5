@@ -13,7 +13,7 @@ Build on your Git skills, and extend your guessing game to include a fourth ques
 
 ## User Stories (MVP)
  - As a developer, I want to work on a new branch in my repo, so I do not effect the state of my Master branch
- - As a user, I want to update my README.md file, so my repo is well documented and my sources are cited
+ - As a developer, I want to update my README.md file, so my repo is well documented and my sources are cited
  - As a developer, I want to validate that my user input is in the correct format, so I can accept uppercase/lowercase or shorthand answers
  - As a developer, I want to add a fourth question that takes a numeric input, and indicates to the user whether the guess is 'too high' or 'too low'.
  - As a developer, I want to notify the user at the end of the game how many questions they guessed correctly, so they can celebrate their awesomeness.
@@ -29,3 +29,4 @@ Build on your Git skills, and extend your guessing game to include a fourth ques
  - As a user, I want x, so that y.
 
 ## Helpful Resources
+- [**Supporting Information**](support.md)

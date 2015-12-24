@@ -19,6 +19,10 @@ Design and develop a guessing game that takes user input and alerts the user wit
  - As a developer, I want to give the user a summary, and thank them for playing my guessing game
  - As a developer, I want to manage my code online through an online version control system, so I have the ability to work with others and manage my revisions
 
+
+  Console.logs......
+
+
 ## Technical Requirements
  - A Github Repo has been created for this assignment, and cloned to the local machine
  - Directories and file structure are organized with best practices; e.g. Folder called "class-01" and file called "index.html"
@@ -29,4 +33,5 @@ Design and develop a guessing game that takes user input and alerts the user wit
  - As a developer, I want to add a fourth question that takes a numeric input, and indicates to the user whether the guess is 'too high' or 'too low'.
 
 ## Helpful Resources
-- [Flowchart Outline](http://thoughtfullearning.com/inquireHSbook/pg18)
+- [**Supporting Information**](support.md)
+- [Try Git: Github's Git Leaning Tool](https://try.github.io/levels/1/challenges/1)
