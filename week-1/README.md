@@ -1,35 +1,49 @@
 # sea-201d1
-Course repo for sea-201d1, with instructors Sam Hamm and Scott Schmidt (Oct/Nov 2015)
+### Course repo for sea-201d1
+**Instructors & TA's**
 
-##Week 1
+*Instructor*: Sam Hamm
+*TA's*
+- Benton Green *'Self Proclaimed Wizard'*
+- Bella Organ *'Totes'*
 
-###10/26
-[Reading Assignment](https://canvas.instructure.com/courses/975041/assignments/3976260)
+##Week 1 - Daily Plans
+###Class 01
+1. Intro to Code Fellows
+2. Introductions
++++BREAK+++
+3. Intro to Dev Env (Tool Belt & Browser basics)
+4. Intro to User Stories
+4. GitHub Gists
 
-[Code Assignment](https://canvas.instructure.com/courses/975041/assignments/3976278)
+###Class 02
+1. HTML Basics
+2. Git & GitHub
++++BREAK+++
+3. JavaScript Basics
+4. Debugging Basics
 
-###10/27
-[Reading Assignment](https://canvas.instructure.com/courses/975041/assignments/3976261)
+###Class 03
+1. Code Review
+2. Control Flow
+3. Logical Operators & Counters
++++BREAK+++
+4. Github Branches & PR's
+5. Separation of Concerns
+6. README.md / Documentation
 
-[Code Assignment](https://canvas.instructure.com/courses/975041/assignments/3976281)
+###Class 04
+1. Code Review
+2. Functions
++++BREAK+++
+3. HTML Links
+4. Introduction to CSS
+5. Pair Programming
 
-###10/28
-[Reading Assignment](https://canvas.instructure.com/courses/975041/assignments/3976262)
-
-[Code Assignment](https://canvas.instructure.com/courses/975041/assignments/3976270)
-
-###10/29
-[Reading Assignment](https://canvas.instructure.com/courses/975041/assignments/3976259)
-
-[Code Assignment](https://canvas.instructure.com/courses/975041/assignments/3976286)
-
-###10/30
-[Reading Assignment](https://canvas.instructure.com/courses/975041/assignments/3976258)
-
-Code Assignment
-
-
-Temp Stuff
-
-console.log
-- Logs the value of that variable into the console with a useful debugging message as demonstrated in class
+###Class 05
+1. Code Review
+2. Arrays
+3. Color
++++BREAK+++
+4. Images
+5. Deployment

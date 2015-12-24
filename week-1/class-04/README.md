@@ -1,13 +1,11 @@
 # Week 1, Class 4
 
 # Reading Reminder
-
 * ["Introducing CSS" (HTML & CSS, Ch. 10)](https://canvas.instructure.com/courses/991898/assignments/4221192)
 * ["Links" (HTML & CSS, Ch. 4)](https://canvas.instructure.com/courses/991898/assignments/4218865)
 * [“Functions, Methods & Objects” (JavaScript, Ch. 3)](https://canvas.instructure.com/courses/991898/assignments/4218809)
 
 # Assignment for Class
-
 Today will be your first exercise in pair programming. You will be assigned to work with a partner, and the two of you will work on and extend each other's guessing games.
 
 [Submit Your Work](https://canvas.instructure.com/courses/991898/assignments/4222874)
@@ -24,6 +22,7 @@ Today will be your first exercise in pair programming. You will be assigned to w
  - Partners have forked, completed work, and then submitted a pull request back to the source repo.
 
 ## User Stories (Stretch)
- - As a developer, I want x, so that y.
+- As a developer, I want to add a sixth question to my game, which has multiple possible answers (hint: using an array and for loop)
 
 ## Helpful Resources
+- [**Supporting Information**](support.md)

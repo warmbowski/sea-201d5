@@ -1,13 +1,13 @@
 # Week 1, Class 3
 
 # Reading Reminder
-
 * [“Decisions and Loops” (JavaScript, Ch. 4)](https://canvas.instructure.com/courses/991898/assignments/4218705)
 * ["Lists" (HTML & CSS, Ch. 3)](https://canvas.instructure.com/courses/991898/assignments/4218707)
 
 # Assignment for Class
+Today we'll be extending/refining the guessing game and pushing the code to a GitHub branch.
 
-Build on your Git skills, and extend your guessing game to include a fourth question and summary of the game at the end.
+In your guessing-game directory, your HTML should be in a file called index.html, your JS in a file called game.js, and you should have a README.md file as well.
 
 [Submit Your Work](https://canvas.instructure.com/courses/991898/assignments/4222866)
 
@@ -19,14 +19,14 @@ Build on your Git skills, and extend your guessing game to include a fourth ques
  - As a developer, I want to notify the user at the end of the game how many questions they guessed correctly, so they can celebrate their awesomeness.
 
 ## Technical Requirements
- - Branch and Pull Request to Master
+ - Work on a branch and Pull Request to Master
  - Updated and cleanly documented README
  - Implement a new form of control flow for the fourth question
  - Implement counter to track right/wrong answers
  - Logical Operators (and possibly string methods) used effectively
 
 ## User Stories (Stretch)
- - As a user, I want x, so that y.
+- As a developer, I want to add a fifth question to my game, which prompts the user to guess my number (hint: using a while loop)
 
 ## Helpful Resources
 - [**Supporting Information**](support.md)
