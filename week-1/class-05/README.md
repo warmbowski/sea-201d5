@@ -1,14 +1,12 @@
 # Week 1, Class 5
-**[Week 1 Feedback]**(https://canvas.instructure.com/courses/991898/assignments/4217026)
-*You will receive an email with a link to the survey. Once complete, please complete the assignment as well.*
+[**Week 1 Feedback**](https://canvas.instructure.com/courses/991898/assignments/4217026)
+*You will receive an email from Code Fellows with a link to the survey. Once complete, please complete this assignment as well.*
 
 # Reading Reminder
-
 * ["Color" (HTML & CSS, Ch. 11)](https://canvas.instructure.com/courses/991898/assignments/4221195)
 * ["Images" (HTML & CSS, Ch. 5)](https://canvas.instructure.com/courses/991898/assignments/4216993)
 
 # Assignment for Class
-
 Today will be your second exercise in pair programming. You will be assigned to work with a partner, and the two of you will work on and extend each other's guessing games.
 
 [Submit Your Work](https://canvas.instructure.com/courses/991898/assignments/4222885)
@@ -26,6 +24,7 @@ Today will be your second exercise in pair programming. You will be assigned to 
  - GH-Pages deployment fully functional
 
 ## User Stories (Stretch)
- - As a developer, I want x, so that y.
+ - As a developer, I want my site to look more professional, so my users will enjoy their experience (hint: Add more CSS styling to make more pretty)
 
 ## Helpful Resources
+- [**Supporting Information**](support.md)
