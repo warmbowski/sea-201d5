@@ -13,7 +13,7 @@ If there are any lingering issues with the setup or functionality of your laptop
 
 For all local file manipulation, use the Terminal and the Unix commands that you learned in class today.
 
-Next, create a file called index.html that has all of the primary components of an HTML document in the proper structure and order: <body>, <doctype>, <head>, <html>, and <title>.
+Next, create a file called index.html that has all of the primary components of an HTML document in the proper structure and order: 'body', 'doctype', 'head', 'html', and 'title'.
 
 Do both by hand as a flowchart on a piece of paper (think of paper as a little personal whiteboard... what a concept!). You'll need these design for the rest of the lab assignment.  
 
