@@ -8,22 +8,24 @@
 * ["The ABC of Programming" (JavaScript, Ch.1 )](https://canvas.instructure.com/courses/991898/assignments/4216991)
 
 # Assignment for Class
-
-Design and markup a flow chart similar to what you saw in lecture, which details a step by step process for [creating a guessing game].
-
-Design a simple About Me page using the basic HTML building blocks you learned today.
+In class, we wrote a program that accepted user input and, based on that input, displayed a message back to the user. Your assignment in lab today involves a variety of different activities related to that.
 
 [Submit Your Work](https://canvas.instructure.com/courses/991898/assignments/4221089)
 
-
 ## User Stories (MVP)
- - As a developer, I want to create a static web page, so I can share details about who I am with others
- - As a developer, I want to use basic markup to structure my page, so the layout is in the order of assembly I prefer
+ - As a developer, I want to use basic markup to structure my index page, so the layout is in the order of assembly I prefer
+ - As a developer, I want to design my scripts, so I can understand how to organize and write my code
+ - As a developer, I want to create a simple script for my index page using JavaScript, so that I can use the browser to send an alert to the user
+ - As a developer, I want to create a second script for my index page using JavaScript, so that I can model a guessing game
+ - As a developer, I want to create a static about me page, so I can share details about who I am with others
 
 ## Technical Requirements
  - Work will be done in a Gist; like to Gist submitted for assignment
  - Good use of HTML; e.g. 'body', 'doctype', 'p', 'head', 'html', 'h1', and 'title'
  - HTML is cleanly written and indented for readability and organization
+ - JavaScript written to alert the user in a "Hello, World" type of script
+ - JavaScript guessing game written to accept prompt inputs, store variable values, and alert user 
 
 ## Helpful Resources
+- [**Supporting Information**](support.md)
 - [Flowchart Outline](http://thoughtfullearning.com/inquireHSbook/pg18)
