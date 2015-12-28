@@ -5,15 +5,14 @@
 * ["Text” (HTML & CSS, Ch.2)](https://canvas.instructure.com/courses/991898/assignments/4218569)
 
 # Assignment for Class
-Today in lab we will be using the code we reviewed in class today as an example for continuing to code the guessing game project that we'll be adding to for the rest of the week. Use the three personalized guessing game questions from yesterday (The game will consist of three yes/no questions about you (example: "Did I grow up in South Dakota?"). Your end product today will look very much like what we finished with in class today, just customized.
+Today in lab we will be using the code we wrote in class today as an example for creating a guessing game project that we'll be adding to for the rest of the week. Use three personalized guessing game questions (The game will consist of three yes/no questions about you (example: "Did I grow up in South Dakota?")). Your end product will look very much like what we finished with in class today, just customized. And if you want, extend it.
 
 [Submit Your Work](https://canvas.instructure.com/courses/991898/assignments/4222832)
 
 ## User Stories (MVP)
- - As a developer, I want to receive the user's name, so that the program is personalized to their experience.
+ - As a developer, I want to receive and use the user's name, so that the program is personalized to their experience.
  - As a developer, I want to provide three questions to the user, so that they can guess the answer and get to know me.
  - As a developer, I want to notify the user after each question, so they are aware whether they were correct or not in their answers.
- - As a developer, I want to give the user a summary, and thank them for playing my guessing game
  - As a developer, I want to debug my code using well structured console messages
  - As a developer, I want to manage my code online through an online version control system, so I have the ability to work with others and manage my revisions
 

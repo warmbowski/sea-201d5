@@ -1,4 +1,7 @@
 #Supporting Information
+##Before you begin
+Confirm that you have created a Pull request for Wednesday's work, and merged to the Master branch.
+
 ##Pair Programming Basics
 In pair programming there are two developers working on a single body of code on a single computer. One member of the pair is the driver, and this person will be the one doing all of the typing actual work on the laptop. The other member of the pair is the navigator, and this person will work with only their voice and their thoughts. The navigator does not touch the keyboard, nor does the navigator work on their laptop "on the side." The navigator is fully engaged with the work that the pair is doing, using at most a piece of scratch paper to sketch diagrams, take notes, or list ideas. Again, the navigator does not touch the keyboard, nor does the navigator work on their laptop "on the side."
 
@@ -11,12 +14,9 @@ Your pair will extend and refine each other's games today. The person whose game
 1. Decide whose code you will work on first. The owner of that code (who will be the navigator) provides the link to their GitHub repo to the other member of the pair (who will be the driver).
 2. The driver follows the link to that repo and creates a fork of the repo.
 3. The driver then goes to their fork of the repo (the URL should have the driver's GitHub name in it) and copies the HTTPS link to that repo (the link should end in .git).
-4. Inside of the driver's main work directory on their laptop, enter the command 'git clone the-https-link-you-copied'. That will create a local version of the forked repo on the driver's laptop.
+4. Inside of the driver's main work directory (NOT in their guessing_game/ directory) on their laptop, enter the command `git clone the-https-link-you-copied`. That will create a local version of the forked repo on the driver's laptop.
 5. `cd` into that directory and enter `atom .` in the terminal to open all of the files in Atom.
 6. Start working on the code!
-
-##Before you begin
-Confirm that you have created a Pull request for Wednesday's work, and merged to the Master branch.
 
 ###Make a Pull Request
 1. Once everything is finished, and you have done the last edits and pushed them to GitHub, it's time to send the edited code from the branch you've been working on to Master. We do this with a GitHub feature called a pull request.
@@ -36,9 +36,6 @@ As we demonstrated in class today, move the logic for the individual questions i
 
 ###Move the alerts into the browser window:
 Using the code from class today as a model, move the alert feedback to the game player into `<p>`  or `<h2>` tags or similar that display in the browser window. **a-c-p**
-
-###Add color to your Game page:
-Depending on whether the user answers each question correct or incorrect, the actual answer which shows up on your game page should turn green (for correct) or red (for incorrect). You will use the code examples from class and adapt that logic to your game.
 
 ###Update the README file:
 Always take a look at your README file and see if it needs updating based upon your most recent work.

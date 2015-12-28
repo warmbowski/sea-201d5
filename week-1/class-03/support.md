@@ -15,6 +15,14 @@ Always think of writing code in a series of steps, making sure that everything w
 
 ## +++Add, Commit, Push+++
 
+###Add in error correction
+What if your user enters 'Y' instead of 'yes'? Or 'y' or 'YES'? Does your game still work correctly? It shouldn't. We need to build in some error correction. In your 'if' statements, where you are testing the user response, you need to add in && cases to your condition, such that Y/y/YES/yes or N/n/NO/no are all accounted for.
+
+## +++Add, Commit, Push+++
+
+###Add a counter
+After the three questions are finished, tell the user how many answers they got correct ("You got 2 correct answers out of 3 questions" or the like). 
+
 ### Update your README file
 Every repo needs a good README file. There's a lot of debate about what goes into a good README (take a look at http://stackoverflow.com/questions/2304863/how-to-write-a-good-readme), but at the least, you should have your name, the name of the project/assignment, a brief description of it, and citations to any code or sources you utilized in creating the code.
 

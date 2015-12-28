@@ -16,7 +16,7 @@ Today will be your first exercise in pair programming. You will be assigned to w
  - As a developer, I want my user to see the answers and responses on the web page, so we do not have to constantly interact with alerts.
 
 ## Technical Requirements
- - Updated and cleanly documented README
+ - Updated and cleanly documented README, including partner's name and link to their repository
  - Game functionality is encapsulated in functions
  - Alerts have been removed from the game, and replaced by printing answers to the DOM.
  - Partners have forked, completed work, and then submitted a pull request back to the source repo.
