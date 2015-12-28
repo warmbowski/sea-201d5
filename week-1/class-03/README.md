@@ -26,7 +26,7 @@ In your guessing-game directory, your HTML should be in a file called index.html
  - Logical Operators (and possibly string methods) used effectively
 
 ## User Stories (Stretch)
-- As a developer, I want to add a fifth question to my game, which prompts the user to guess my number (hint: using a while loop)
+- As a developer, I want to add a fifth question to my game, which prompts the user to guess my number (hint: using a while loop) until they have guessed correctly
 
 ## Helpful Resources
 - [**Supporting Information**](support.md)
