@@ -2,15 +2,15 @@
 
 # Reading Reminder
 
-* ["Structure" (HTML & CSS, Ch. 1)](https://canvas.instructure.com/courses/991898/assignments/4217448)
-* ["Extra Markup" (HTML & CSS, Ch. 8)](https://canvas.instructure.com/courses/991898/assignments/4216998)
-* ["Process & Design" (HTML & CSS, Ch. 18)](https://canvas.instructure.com/courses/991898/assignments/4221202)
-* ["The ABC of Programming" (JavaScript, Ch.1 )](https://canvas.instructure.com/courses/991898/assignments/4216991)
+* ["Structure" (HTML & CSS, Ch. 1)]()
+* ["Extra Markup" (HTML & CSS, Ch. 8)]()
+* ["Process & Design" (HTML & CSS, Ch. 18)]()
+* ["The ABC of Programming" (JavaScript, Ch.1 )]()
 
 # Assignment for Class
 In class, we wrote a program that accepted user input and, based on that input, displayed a message back to the user. Your assignment in lab today involves a variety of different activities related to that.
 
-[Submit Your Work](https://canvas.instructure.com/courses/991898/assignments/4221089)
+[Submit Your Work]()
 
 ## User Stories (MVP)
  - As a developer, I want to use basic markup to structure my index.html page, so the layout is in the order of assembly I prefer

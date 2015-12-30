@@ -1,14 +1,14 @@
 # Week 1, Class 4
 
 # Reading Reminder
-* ["Introducing CSS" (HTML & CSS, Ch. 10)](https://canvas.instructure.com/courses/991898/assignments/4221192)
-* ["Links" (HTML & CSS, Ch. 4)](https://canvas.instructure.com/courses/991898/assignments/4218865)
-* [“Functions, Methods & Objects” (JavaScript, Ch. 3)](https://canvas.instructure.com/courses/991898/assignments/4218809)
+* ["Introducing CSS" (HTML & CSS, Ch. 10)]()
+* ["Links" (HTML & CSS, Ch. 4)]()
+* [“Functions, Methods & Objects” (JavaScript, Ch. 3)]()
 
 # Assignment for Class
 Today will be your first exercise in pair programming. You will be assigned to work with a partner, and the two of you will work on and extend each other's guessing games.
 
-[Submit Your Work](https://canvas.instructure.com/courses/991898/assignments/4222874)
+[Submit Your Work]()
 
 ## User Stories (MVP)
  - As a developer, I want my code written in a modular way, so that I can reuse functionality without duplicating code.

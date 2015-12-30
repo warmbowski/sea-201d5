@@ -1,13 +1,13 @@
 # Week 1, Class 2
 
 # Reading Reminder
-* ["Basic JavaScript Instructions" (JavaScript, Ch. 2)](https://canvas.instructure.com/courses/991898/assignments/4218539)
-* ["Text” (HTML & CSS, Ch.2)](https://canvas.instructure.com/courses/991898/assignments/4218569)
+* ["Basic JavaScript Instructions" (JavaScript, Ch. 2)]()
+* ["Text” (HTML & CSS, Ch.2)]()
 
 # Assignment for Class
 Today in lab we will be using the code we wrote in class today as an example for creating a guessing game project that we'll be adding to for the rest of the week. Use three personalized guessing game questions (The game will consist of three yes/no questions about you (example: "Did I grow up in South Dakota?")). Your end product will look very much like what we finished with in class today, just customized. And if you want, extend it.
 
-[Submit Your Work](https://canvas.instructure.com/courses/991898/assignments/4222832)
+[Submit Your Work]()
 
 ## User Stories (MVP)
  - As a developer, I want to receive and use the user's name, so that the program is personalized to their experience.
