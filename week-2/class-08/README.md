@@ -26,4 +26,5 @@ Today in lab you will be doing some work in a pair, and some work individually. 
 
 ## Helpful Resources
 [Problem Domain Document](week-2/support.md)
+
 [Assignment Assets](week-2/assets)

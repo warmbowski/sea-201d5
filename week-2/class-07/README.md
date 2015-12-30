@@ -24,4 +24,5 @@ We will also be replacing the lists of data for each store, and implementing a t
 
 ## Helpful Resources
 [Problem Domain Document](week-2/support.md)
+
 [Assignment Assets](week-2/assets)

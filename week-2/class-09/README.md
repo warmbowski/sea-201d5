@@ -28,4 +28,5 @@ Today will be a day of refactoring! Your client has changed his mind on a few th
 
 ## Helpful Resources
 [Problem Domain Document](week-2/support.md)
+
 [Assignment Assets](week-2/assets)
