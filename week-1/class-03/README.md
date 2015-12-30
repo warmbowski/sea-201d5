@@ -1,15 +1,15 @@
 # Week 1, Class 3
 
 # Reading Reminder
-* [“Decisions and Loops” (JavaScript, Ch. 4)](https://canvas.instructure.com/courses/991898/assignments/4218705)
-* ["Lists" (HTML & CSS, Ch. 3)](https://canvas.instructure.com/courses/991898/assignments/4218707)
+* [“Decisions and Loops” (JavaScript, Ch. 4)]()
+* ["Lists" (HTML & CSS, Ch. 3)]()
 
 # Assignment for Class
 Today we'll be extending/refining the guessing game and pushing the code to a GitHub branch.
 
 In your guessing-game directory, your HTML should be in a file called index.html, your JS in a file called game.js, and you should have a README.md file as well.
 
-[Submit Your Work](https://canvas.instructure.com/courses/991898/assignments/4222866)
+[Submit Your Work]()
 
 ## User Stories (MVP)
  - As a developer, I want to work on a new branch in my repo, so I do not effect the state of my Master branch
