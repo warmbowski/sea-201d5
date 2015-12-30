@@ -6,10 +6,11 @@
 
 *TA's*
 - Benton Green *'Self Proclaimed Wizard'*
+- Kris Skelton *'Skelton, not Skeleton'*
 - Bella Organ *'Totes'*
 
 ## Week 2 - Daily Plans
-### Class 06
+### Class 06 (Monday)
 1. Code Review
 2. Domain Modeling
 3. Style guides
@@ -20,7 +21,7 @@
 2. Object Literals
 3. DOM Rendering (lists)
 
-###Class 07
+###Class 07 (Tuesday)
 1. Code Review
 2. Document Object Model
 3. HTML Tables
@@ -30,7 +31,7 @@
 1. Constructor Functions
 2. DOM Rendering (table)
 
-###Class 08
+###Class 08 (Wednesday)
 1. Code Review
 2. Events
 
@@ -38,7 +39,7 @@
 
 1. Forms
 
-###Class 09
+###Class 09 (Thursday)
 1. Code Review
 
 +++BREAK+++
@@ -46,7 +47,7 @@
 1. Semantic HTML5
 2. Box Model
 
-###Class 10
+###Class 10 (Friday)
 1. Code Review
 2. CSS Layout
 
