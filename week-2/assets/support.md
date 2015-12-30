@@ -3,19 +3,18 @@ Your friend Pat has come up with a business idea by combining two signature Seat
 
 But, Pat needs some help with the branding of the business, as well as some help with internal data management for the company, and has enlisted your assistance because of your extensive and proven work in developing web applications. Pat's Salmon Cookies, soon with franchises all over town, needs to calculate the number of cookies each location must make every day so that it can manage its supplies inventory and baking schedule. The number of cookies to make depends on the hours of operation—10:00 AM to 6:00 PM—and a few factors unique to each location:
 
-The minimum number of customers per hour.
-The maximum number of customers per hour.
-The average number of cookies purchased per customer.
+- The minimum number of customers per hour.
+- The maximum number of customers per hour.
+- The average number of cookies purchased per customer.
 
-Because we are early in the life of this business, we will need to build an application that is adaptable: Pat will need to be able to add and remove locations from the daily projections report, and Pat will also need to be able to easily modify the input numbers for each location based on day of the week, special events, and other factors. Pat would like to see these numbers with nice formatting in a web application, and oh yeah... one more thing:
+Because we are early in the life of this business, we will need to build an application that is adaptable. Pat will need to be able to add and remove locations from the daily projections report, and Pat will also need to be able to easily modify the input numbers for each location based on day of the week, special events, and other factors. Pat would like to see these numbers with nice formatting in a web application, and oh yeah... one more thing:
 
-Pat needs you to take a leading role in doing the design work, too. Pat has a logo image picked out, but that's it. Yep, all you're getting to work off of is an illustration of a fish:
+Pat needs you to take a leading role in doing the design work, too. Pat has a logo image picked out, but that's it. Yep, all you're getting to work off of is an illustration of a fish [see Assets Folder](week-2/assets).
 
 Pat has asked you to come up with all other aspects of the design for the web application, including a color scheme and a custom font, and maybe additional images, and provide those in this very same web application as a style guide. So, in addition to building an application that calculates daily sales projections for each location, you also need to create a style guide that is colorful, eye-catching, readable, useful, informative, specific, repeatable, and ultimately ready for use on T-shirts, stickers, coffee mugs, cookie bags, napkins, and so on.
 
-You've got a lot to do. Plan your work, and work your plan.
-
-++++++
+You've got a lot to do.
+*Plan your work, and work your plan*.
 
 #Calculate Daily Sales Projections
 We're going to assemble this web application bit by bit.
@@ -29,16 +28,16 @@ First, create a separate JS object for each shop location that does the followin
 5. Display the values of each array as unordered lists in the browser
 6. Calculating the sum of these hourly totals; your output for each location should look like this:
 
-Pike Place Market
-- 10am: 56 cookies
-- 11am: 77 cookies
-- 12pm: 93 cookies
-- 1pm: 144 cookies
-- 2pm: 119 cookies
-- 3pm: 84 cookies
-- 4pm: 61 cookies
-- 5pm: 23 cookies
-- Total: 657 cookies
+    Pike Place Market
+    - 10am: 56 cookies
+    - 11am: 77 cookies
+    - 12pm: 93 cookies
+    - 1pm: 144 cookies
+    - 2pm: 119 cookies
+    - 3pm: 84 cookies
+    - 4pm: 61 cookies
+    - 5pm: 23 cookies
+    - Total: 657 cookies
 
 Display the lists on index.html. We will be adding features to this application and working with its layout throughout the week.
 

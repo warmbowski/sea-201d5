@@ -11,15 +11,18 @@
 
 ## Week 2 - Daily Plans
 ### Class 06 (Monday)
-1. Code Review
-2. Domain Modeling
-3. Style guides
-4. Text Formatting (CSS)
+1. Announcements and Survey Comments
+  - Surveys are important!
+  - Less supporting info for assignment / more 'sandboxy'
+2. Code Review
+3. Domain Modeling
+4. Style guides
+5. Text Formatting (CSS)
 
 +++BREAK+++
 
-2. Object Literals
-3. DOM Rendering (lists)
+6. Object Literals
+7. DOM Rendering (lists)
 
 ###Class 07 (Tuesday)
 1. Code Review
