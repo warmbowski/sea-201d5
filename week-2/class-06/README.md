@@ -33,4 +33,5 @@ You will also simultaneously be working with more specific style and design conc
 
 ## Helpful Resources
 [Problem Domain Document](week-2/support.md)
+
 [Assignment Assets](week-2/assets)

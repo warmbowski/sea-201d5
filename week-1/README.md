@@ -1,5 +1,5 @@
-# sea-201d1
-### Course repo for sea-201d1
+# sea-201d5
+### Course repo for sea-201d5
 **Instructors & TA's**
 
 *Instructor*: Sam Hamm

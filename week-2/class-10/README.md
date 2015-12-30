@@ -24,4 +24,5 @@ It's time to deploy the living site! When all work is finished and the master br
 
 ## Helpful Resources
 [Problem Domain Document](week-2/support.md)
+
 [Assignment Assets](week-2/assets)
