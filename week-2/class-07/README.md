@@ -10,7 +10,6 @@ We will also be replacing the lists of data for each store, and implementing a t
 
 ## User Stories (MVP)
  - As a developer, I want to implement a constructor function, so that I can reuse code and eliminate much of the duplication in my JavaScript
- - As a developer, I want to present the store data in a table format on the webpage, so each store's data is easier to represent and understand
  - As a developer, I want to continue to evolve my styleguide (keep working on adding more details or finishing up what's not complete)
 
 ## Technical Requirements
@@ -18,7 +17,6 @@ We will also be replacing the lists of data for each store, and implementing a t
  - Duplicate code has been removed and DRY principles are evident
  - Styleguide is improving and becoming more specific (separate file from main page)
  - Working on a non-master branch for the day, with regular commit history
- - Table has been implemented and lists are no longer used to represent store data
 
 ## User Stories (Stretch)
  - As a user, I want to be able to add a new store to my webpage, so that I have the ability to work independently of my developer
