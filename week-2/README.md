@@ -3,11 +3,13 @@
 **Instructors & TA's**
 
 *Instructor*: Sam Hamm
+*Assistant Instructor*: Paul Laskowski
 
 *TA's*
 - Benton Green *'Self Proclaimed Wizard'*
 - Kris Skelton *'Skelton, not Skeleton'*
 - Bella Organ *'Totes'*
+- Dan Schwartz *'O Danny Boy, Oh Boy Oh Boy'*
 
 ## Week 2 - Daily Plans
 ### Class 06 (Monday)

@@ -8,9 +8,9 @@
 * ["The ABC of Programming" (JavaScript, Ch.1 )]()
 
 # Assignment for Class
-In class, we wrote a program that accepted user input and, based on that input, displayed a message back to the user. Your assignment in lab today involves a variety of different activities related to that.
+In class, we wrote a program that accepted user input and, based on that input, displayed a message back to the user. Your assignment in lab today involves a variety of different activities related to that, plus completing the reading assignments above.
 
-[Submit Your Work]()
+[Submit Your Work](https://canvas.instructure.com/courses/990569/assignments/4231802)
 
 ## User Stories (MVP)
  - As a developer, I want to use basic markup to structure my index.html page, so the layout is in the order of assembly I prefer
